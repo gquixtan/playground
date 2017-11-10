@@ -1,0 +1,20 @@
+h1 {
+  font-size: 4rem;
+}
+
+body {
+    background-color: rgb(255, 255, 204);
+}
+
+div.jumbotron {
+    background-image: url("../img/whitepaper-color-communication-guide-large.jpg");
+}
+nav.navbar.navbar-default div.container-fluid {
+
+    background-image: url("../img/whitepaper-color-communication-guide-large.jpg");
+
+}
+
+.navbar-default .navbar-nav>.active>a {
+     background-image: url("../img/whitepaper-color-communication-guide-large.jpg");
+}
